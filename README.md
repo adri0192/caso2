@@ -12,4 +12,5 @@
 
 [Clase meet](https://meet.google.com/hoy-acox-obz)
 
-[Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s)
+
